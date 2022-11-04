@@ -1,4 +1,4 @@
-<img align="center" src="[https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" />
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
@@ -94,8 +94,7 @@
 
   <br/>
   <br/>
-     <p align="center">        
-<h1 align="center">🙂 Thanks for visiting 😎</h1>  
+     <p align="center">                                                                                               <h2 align="center"> Thanks for visiting 🙂 </h2>  
                                                                    
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
