@@ -31,18 +31,18 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MIR6ybiIxDNaBSkEUofW8qhqOubF6nLy/view?usp=share_link)
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="" alt="" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/shivaji-jadhav-04161b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
-<a href="https://codesandbox.io/dashboard/recent" target="blank"><img align="center" src="#" alt="shivaji-jadhav" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/profile.php?id=100007431942742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivaji9020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivaji jadhav" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC-4Lyu_DPyJAWLzCHkzv-6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
