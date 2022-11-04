@@ -38,9 +38,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/shivaji-jadhav-04161b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivaji-jadhav-04161b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://codesandbox.io/dashboard/recent" target="blank"><img align="center" src="#" alt="shivaji-jadhav" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100007431942742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivaji9020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivaji jadhav" height="30" width="40" /></a>
