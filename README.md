@@ -33,13 +33,17 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="40px" height="25px" /></a> </p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
 
 <br />
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="40px" height="25px" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="40px" height="25px" /></a> </p>
 
 
 
