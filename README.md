@@ -43,7 +43,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="40px" height="25px" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="40px" height="25px" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="[data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==](https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg)" alt="" width="40px" height="25px" /></a> </p>
 
 
 
