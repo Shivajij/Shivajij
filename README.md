@@ -35,17 +35,17 @@
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <h2 align="center">📱 Connect with me</h2>
 
 <br />
 <div display="flex">
-  <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" width="40px" height="25px" /></a> </p>
+  <p align="center"> <a href=" https://www.linkedin.com/in/shivaji-jadhav-04161b22b/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" width="40px" height="25px" /></a> </p>
   
-  
+ 
 
-<p align="center"> <a href="https://www.linkedin.com/in/shivaji-jadhav-04161b22b/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="40px" height="25px" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Shivaji5242"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="40px" height="25px" /></a> </p>
 
 <p align="center"> <a href="https://www.instagram.com/shivaji9020/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="" width="40px" height="25px" /></a> </p>
   
