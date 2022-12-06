@@ -33,7 +33,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="100px" height="100px" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="" width="60px" height="70px" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
