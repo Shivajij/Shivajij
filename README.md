@@ -41,7 +41,7 @@
 
 <br />
 <div display="flex">
-  <p align="center"> <a href=" https://www.linkedin.com/in/shivaji-jadhav-04161b22b/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" width="40px" height="25px" /></a> </p>
+  <p align="center"> <a href="https://www.linkedin.com/in/shivaji-jadhav-04161b22b/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" width="40px" height="25px" /></a> </p>
   
  
 
