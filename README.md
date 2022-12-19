@@ -20,9 +20,9 @@
 
 - 🙂 Self Motivated<br>
 
-- 🌱 I’m currently lerning **MERN Stack**
+- 🌱 I’m a **MERN Stack**developer
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://shivajij.github.io/)
+- 👨‍💻 Some of my projects are available at [My portfolio](https://shivajij.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Node.js, Express, MongoDB**
 
