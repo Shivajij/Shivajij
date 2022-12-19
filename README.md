@@ -96,7 +96,7 @@
  </div>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 </p>                                                                                                                                              
 
   <br/>
@@ -104,4 +104,4 @@
      <p align="center">                                                                                               <h2 align="center"> Thanks for visiting 🙂 </h2>  
                                                                    
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
