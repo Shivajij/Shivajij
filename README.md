@@ -20,7 +20,7 @@
 
 - 🙂 Self Motivated<br>
 
-- 🌱 I’m a **MERN Stack**developer
+- 🌱 I’m a **MERN Stack** developer
 
 - 👨‍💻 Some of my projects are available at [My portfolio](https://shivajij.github.io/)
 
