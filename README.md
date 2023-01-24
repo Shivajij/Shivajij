@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **sj461898@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1MIR6ybiIxDNaBSkEUofW8qhqOubF6nLy/view?usp=share_link](https://drive.google.com/drive/u/0/my-drive))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1euCvjYR9Wt9TTHX8C_wCLf0Pb_TaXd1F/view?usp=sharing](https://drive.google.com/file/d/1VI9TXlVVJq84ZuMKr7fTULakQSYuZ2Ed/view?usp=share_link))
 </div>
 
 
