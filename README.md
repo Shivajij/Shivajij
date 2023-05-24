@@ -47,7 +47,7 @@
 
 <p align="center"> <a href="https://twitter.com/Shivaji5242"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGBOgpUgc591WmN3NFyXZVU8Oy9qNFXKgbJRFQW0&s" alt="" width="40px" height="25px" /></a> </p>
 
-<p align="center"> <a href="https://www.instagram.com/shivaji9020/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="" width="40px" height="25px" /></a> </p>
+<p align="center"> <a href="https://www.instagram.com/shivaji9020/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="" width="40px" height="35px" /></a> </p>
   
   <p align="center"> <a href="https://www.facebook.com/profile.php?id=100007431942742" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" alt="" width="40px" height="25px" /></a> </p>
   </div>
